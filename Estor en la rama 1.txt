@@ -2,8 +2,5 @@
 
 estoy en la rama 2
 Javier Pinto
-<<<<<<< HEAD
 NUEVO CAMBIO
-=======
 Esto es otro cambio
->>>>>>> refs/remotes/origin/master
