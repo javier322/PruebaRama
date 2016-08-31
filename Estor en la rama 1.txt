@@ -3,7 +3,10 @@
 estoy en la rama 2
 Javier Pinto
 <<<<<<< HEAD
+<<<<<<< HEAD
 NUEVO CAMBIO
 Esto es otro cambio
+=======
+>>>>>>> parent of d393bf2... CAMBIO 2
 =======
 >>>>>>> parent of d393bf2... CAMBIO 2
