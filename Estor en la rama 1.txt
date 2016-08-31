@@ -1,1 +1,11 @@
+<<<<<<< HEAD
+
+estoy en la rama 2
 Javier Pinto
+=======
+<<<<<<< HEAD
+estoy en la rama 2
+=======
+Javier Pinto
+>>>>>>> refs/remotes/origin/master
+>>>>>>> origin/rama2
